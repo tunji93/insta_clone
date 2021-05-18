@@ -1,0 +1,5 @@
+export const Dashboard = "/"
+export const login = "/login"
+export const Signup = "/signup"
+export const Notfound = "/notfound"
+export const Profile = "/p/:username"
